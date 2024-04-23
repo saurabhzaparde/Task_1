@@ -1,0 +1,52 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: aquamarine;
+    background-size: cover;
+}
+
+.head {
+    list-style-type: none;
+    color: rgb(0, 0, 0);
+}
+
+.title {
+    position: relative;
+    top: 00px;
+    left: 00px;
+    text-align: center;
+    border: 2px dashed rgba(250, 246, 246, 0.726);
+}
+
+h4 {
+    float: center;
+}
+
+ul {
+    float: center;
+    list-style-type: none;
+    margin-top: 20px;
+}
+
+ul li {
+    display: list-item;
+}
+
+.submit input {
+    position: relative;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.425);
+    border: none;
+    border-radius: 40px;
+}
+
+.submit input:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.644);
+}
